@@ -2,7 +2,7 @@
 
 require_relative 'bike'
 require_relative 'rental'
-puts("yoyoyoyoyoyoy")
+
 items = [:apple, :water, :protein_bar]
 #luggage = Luggage.new(Luggage::DEFAULT_MAX_CAPACITY)
 luggage = Luggage.new(Luggage::DEFAULT_MAX_CAPACITY,["stuff","stuff2"])
